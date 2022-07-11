@@ -1,5 +1,6 @@
 .vscode/
 .idea/
+Lession2/aclImdb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
