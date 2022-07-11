@@ -1,6 +1,8 @@
 .vscode/
 .idea/
 Lession2/aclImdb/
+Lession1/one_step
+Lession1/training_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
