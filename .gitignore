@@ -1,5 +1,6 @@
 .vscode/
 .idea/
+Lession2/logs
 Lession2/aclImdb/
 Lession1/one_step
 Lession1/training_checkpoints
@@ -133,3 +134,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Lession2/aclImdb_v1.tar.gz
