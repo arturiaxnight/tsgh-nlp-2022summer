@@ -1,3 +1,7 @@
+*.subwords
+logs/
+checkpoints/
+Lession3/~
 .vscode/
 .idea/
 Lession2/logs
