@@ -139,3 +139,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Lession2/aclImdb_v1.tar.gz
+/Lession6/wiki_text.txt
+/Lession6/wiki_text_seg.txt
+/Lession6/word2vec.model
+/Lession6/word2vec.model.trainables.syn1neg.npy
+/Lession6/word2vec.model.wv.vectors.npy
+/Lession6/zhwiki-20220820-pages-articles-multistream.xml.bz2
